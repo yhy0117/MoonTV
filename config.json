@@ -84,7 +84,7 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
    "xingchen": {
   "api": "https://api.xingchen.vip/api.php/provide/vod",
   "name": "星辰影院"
@@ -148,6 +148,6 @@
 "jh": {
   "api": "https://api.jhdm.com/vodapi.php",
   "name": "聚合影视"
-}, 
+}
   }
 }
