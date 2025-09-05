@@ -85,5 +85,69 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+   "xingchen": {
+  "api": "https://api.xingchen.vip/api.php/provide/vod",
+  "name": "星辰影院"
+},
+
+"ds80s": {
+  "api": "https://api.80s.tv/vod/",
+  "name": "80s资源站"
+},
+
+"dxs": {
+  "api": "https://api.dxsdm.com/vodapi.php",
+  "name": "大片资源站"
+},
+
+"lx": {
+  "api": "https://api.lexiang.co/vod/",
+  "name": "乐享影视"
+},
+
+"ky": {
+  "api": "https://api.kyapi.net/vod/",
+  "name": "酷云资源"
+},
+
+"yb": {
+  "api": "https://api.yunbo.tv/vodapi.php",
+  "name": "云播TV"
+},
+
+"lg": {
+  "api": "https://api.lg影院.com/vodapi.php",
+  "name": "蓝光影院"
+},
+
+"yx": {
+  "api": "https://api.yxapi.net/vod/",
+  "name": "优选资源站"
+},
+
+"sz": {
+  "api": "https://api.shizi.co/vod/",
+  "name": "狮子影视"
+},
+
+"fx": {
+  "api": "https://api.fxxc.tv/vodapi.php",
+  "name": "飞翔影院"
+},
+
+"wx": {
+  "api": "https://api.wxvod.net/vod/",
+  "name": "无限资源"
+},
+
+"ls": {
+  "api": "https://api.lvse.tv/vod/",
+  "name": "绿色影视"
+},
+
+"jh": {
+  "api": "https://api.jhdm.com/vodapi.php",
+  "name": "聚合影视"
+}, 
   }
 }
